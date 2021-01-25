@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Kerrie
+title: dbyll
 
 defaults:
   -
@@ -22,8 +22,8 @@ author:
   email: kembygeo@gmail.com
   github: kerriebushway
   twitter: kembygeo
-  pinterest: asd123
-  linkedin: asd123
+  pinterest: kembygeo
+  linkedin: kbushway
   bio: Welcome to my spatial garden where ideas germinate and flourish.
   email_md5: 726351295ec82e145928582f595aa3aa
 
